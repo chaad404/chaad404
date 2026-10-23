@@ -76,7 +76,7 @@ I am a **Software Engineer** specializing in **AI/LLM Systems**, **Backend Engin
 
 | Project | The "Real" Story | Stack |
 | :--- | :--- | :--- |
-| **[🤖 LLM Evaluation Framework](https://gitlab.com/rokayaarakhi/implementation.1)** | Multi-agent benchmarking framework that tests whether LLMs can write good exam questions or just hallucinate | `Python` `LangChain` `LangGraph` `GPT-4o` |
+| **[🤖 LLM Evaluation Framework](https://gitlab.com/rokayaarakhi/implementation.1)** | Multi-agent benchmarking framework that tests whether LLMs can write good exam questions or just hallucinate | `Python` `LangChain` `LangGraph` `GPT-OSS` `Llama 3.3` `Mistral` `Command A` |
 | **[🤝 VolunteerBridge](https://gitlab.com/rokayaarakhi/volunteerbridge)** | Platform connecting community volunteers to social causes because humans should help humans | `Java` `Spring Boot` `H2 / MySQL` |
 | **[📚 ShelfLife](https://gitlab.com/rokayaarakhi/selflife)** | Goodreads-style book platform with reading shelves, reviews and live review notifications, because the to-read pile deserves a database | `Java` `Spring Boot` `WebSockets` |
 | **[🎓 University Engagement Platform](https://github.com/fgoksel/Gamified-University-Engagement-Platform)** | Gamified campus engagement system encouraging students to actually participate (team internship project) | `Laravel` `Vue 3` `MySQL` `Docker` |
